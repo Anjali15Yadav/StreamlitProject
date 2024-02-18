@@ -2,7 +2,7 @@ import streamlit.web.cli as stcli
 #from streamlit.cli import main
 import streamlit as st
 from PIL import Image
-import cv2 as cv
+import opencv as cv
 import matplotlib.pyplot as plt
 import numpy as np
 
