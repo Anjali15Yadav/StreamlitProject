@@ -1,4 +1,5 @@
 numpy
 Pillow
+libgl1-mesa-glx
 opencv-contrib-python
 matplotlib
