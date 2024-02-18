@@ -1,5 +1,5 @@
 numpy
 Pillow
-OpenGL=4.6
+OpenGL==4.6
 OpenCV-python
 matplotlib
