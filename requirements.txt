@@ -4,3 +4,4 @@ streamlit
 opencv-python
 matplotlib
 libgl1-mesa-glx
+cv2
