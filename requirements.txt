@@ -3,4 +3,4 @@ Pillow
 streamlit
 opencv-python
 matplotlib
-
+libgl1-mesa-glx
